@@ -1,5 +1,5 @@
 ### Olá 👋
-## Sou o Arthur
+#### Sou o Arthur
 
 <!--
 **Arthur-Ruas/Arthur-Ruas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
