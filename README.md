@@ -1,5 +1,13 @@
-### Olá 👋
-## Sou o Arthur
+<h1 align="center">Olá, meu nome é Arthur</h1>
+
+<div>
+  <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-ruas&show_icons=true&locale=en&layout=compact&bg_color=19333e&title_color=ffffff&text_color=e0eef5"/>
+  <ul>
+    <li>Gosto de Front-end</li>
+    <li>Tentando aprender o máximo possivel</li>
+    <li>Me virando com o que eu sei</li>
+  </ul>
+</div>
 
 <!--
 **Arthur-Ruas/Arthur-Ruas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-ruas&show_icons=true&locale=en&layout=compact&bg_color=19333e&title_color=ffffff&text_color=e0eef5" alt="pedrofnseca" />
