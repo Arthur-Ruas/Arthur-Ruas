@@ -12,7 +12,7 @@
 <div align="center">
   <p>-🤠 Gosto de Front-end,</p>
   <p>-📚 Tentando aprender o máximo possivel.</p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-ruas&show_icons=true&locale=en&layout=compact&bg_color=19333e&title_color=ffffff&text_color=e0eef5"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-ruas&layout=compact&bg_color=19333e&title_color=ffffff&text_color=e0eef5"/>
 </div>
 
 <!--
