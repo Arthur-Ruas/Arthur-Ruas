@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/React-1a9bc3?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
   <img src="https://img.shields.io/badge/Tailwind-1a9bc3?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/C%23-1a9bc3?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Mysql-1a9bc3?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 <br>
 
