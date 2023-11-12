@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-1a9bc3?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1a9bc3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Sass-1a9bc3?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+  <img src="https://img.shields.io/badge/Scss-1a9bc3?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
   <img src="https://img.shields.io/badge/JavaScript-1a9bc3?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-1a9bc3?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
   <img src="https://img.shields.io/badge/Tailwind-1a9bc3?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
