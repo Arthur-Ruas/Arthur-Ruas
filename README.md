@@ -3,18 +3,20 @@
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-1a9bc3?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1a9bc3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Scss-1a9bc3?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
   <img src="https://img.shields.io/badge/JavaScript-1a9bc3?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+
   <img src="https://img.shields.io/badge/React-1a9bc3?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/Scss-1a9bc3?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
   <img src="https://img.shields.io/badge/Tailwind-1a9bc3?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+   <img src="https://img.shields.io/badge/Mysql-1a9bc3?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+   
   <img src="https://img.shields.io/badge/C%23-1a9bc3?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Mysql-1a9bc3?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 <br>
 
 <div align="center">
   <p>-📚 Tentando aprender o máximo possivel.</p>
-<!--   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-ruas&layout=compact&bg_color=fff&title_color=1a9bc3&text_color=e0eef5"/> -->
+<!--<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-ruas&layout=compact&bg_color=444&title_color=1a9bc3&text_color=e0eef5"/> --> 
 </div>
 
 <!--
