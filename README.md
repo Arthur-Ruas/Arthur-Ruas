@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/Node.js-1a9bc3?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-1a9bc3?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
    
-  <img src="https://img.shields.io/badge/C%23-1a9bc3?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+ <img src="https://img.shields.io/badge/C%23-1a9bc3?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+ <img src="https://img.shields.io/badge/Python-1a9bc3?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 <br>
 
